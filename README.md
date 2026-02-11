@@ -1,1 +1,1 @@
-Proyek Kecil Website Menu Resto yang bisa diakses menggunakan QR Mikashiya dan Rascal
+Proyek kecil Website Menu Resto yang bisa diakses menggunakan QR oleh Mikashiya dan Rascal
