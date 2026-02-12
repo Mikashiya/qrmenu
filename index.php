@@ -28,7 +28,7 @@
     <main class="pt-19 px-4 pb-4 space-y-5">
         <div id="menuspesial" class="space-y-1">
             <p class="text-xl text-zinc-800 font-semibold">Menu Spesial</p>
-            <div class="size-full grid grid-cols-2 md:grid-cols-5 gap-3">
+            <div class="size-full grid grid-cols-2 md:grid-cols-4 gap-3">
                 <div class="col-span-1 rounded-md shadow-md h-70 md:h-150 grid md:grid-rows-4 grid-rows-3">
                     <div class="md:row-span-4 row-span-2">
                         <img src="img/menu.png" alt="Menu Photo" class="bg-cover rounded-md h-full w-full">
@@ -37,49 +37,6 @@
                         <p class="font-semibold text-md text-zinc-800">Nama Menu</p>
                         <span class="flex"><p class="text-base text-red-500">Rp. </p><p class="text-base text-red-500">10.000</p></span>
                     </div>
-                </div>
-                <div class="col-span-1 rounded-md shadow-md h-50 md:h-150">
-
-                </div>
-                <div class="col-span-1 rounded-md shadow-md h-50 md:h-150">
-
-                </div>
-                <div class="col-span-1 rounded-md shadow-md h-50 md:h-150">
-
-                </div>
-            </div>
-        </div>
-        <div id="makanan">
-            <p class="text-xl text-zinc-800 font-semibold">Makanan</p>
-            <div class="size-full grid grid-cols-2 md:grid-cols-4 gap-3">
-                <div class="col-span-1 rounded-md shadow-md h-50 md:h-150">
-
-                </div>
-                <div class="col-span-1 rounded-md shadow-md h-50 md:h-150">
-
-                </div>
-                <div class="col-span-1 rounded-md shadow-md h-50 md:h-150">
-
-                </div>
-                <div class="col-span-1 rounded-md shadow-md h-50 md:h-150">
-
-                </div>
-            </div>
-        </div>
-        <div id="minuman">
-            <p class="text-xl text-zinc-800 font-semibold">Minuman</p>
-            <div class="size-full grid grid-cols-2 md:grid-cols-4 gap-3">
-                <div class="col-span-1 rounded-md shadow-md h-50 md:h-150">
-
-                </div>
-                <div class="col-span-1 rounded-md shadow-md h-50 md:h-150">
-
-                </div>
-                <div class="col-span-1 rounded-md shadow-md h-50 md:h-150">
-
-                </div>
-                <div class="col-span-1 rounded-md shadow-md h-50 md:h-150">
-
                 </div>
             </div>
         </div>
